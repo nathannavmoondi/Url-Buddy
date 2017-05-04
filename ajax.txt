@@ -1,0 +1,61 @@
+scriptmanager and toolbox needed in older versions of .net
+
+UPDATE PANEL CONTROL
+
+only elements in that panel gets refreshed when you ask it.
+1) add update panel
+2) add <contemttemplate> element within it.
+3) throw controls within contettemplate
+4) modify TRIGGER in updatepanel which updates content in panel (modify BEHEAVIOUR which control and which event to LISTEN to)
+
+When that event on a control gets triggered, only those within contenttemplate gets updated - eveytrhing stays same.
+
+EXTENDERS
+
+Add Ajax cool fujnctinaolty to existing controls.  Extends them.  modify in HTML all elements and features.
+
+UPDATE PROGRESS CONTROL
+
+1) add update progress panel
+2) set id to the UPDATE PANEL id (associatedupdatepanelid). Set DisplayAfter = "5".
+3) add <ProgressTemplate> element and insert text "Updating.  Please bear with us, and animated GIF.
+
+when that update panel is taking a while to refresh, the update progress control kicks in.
+
+* Movable title panels
+  create asp panels with DIV inside which contains another panel.
+
+* Javascript calls
+  call web services, change properties, etc.
+
+* Profiles.  Properties saved for each user.  Fancy usage.
+  in web.config
+  <profile enabled=true> 
+   <properties>
+    <add name="userpanelbackground" type="system.string" defaultvalue=white">
+
+  adds property to the profile service.  Ensure section name=profielsrevice runs in web.config so it runs profile engine.
+
+  also add additional code into system.web.extneions area of web.config.  Also involves lots of javascript and other stuff.
+
+ROUNDED CONTROL EXTENDER
+  TargetControlId = The Panel you want to modify
+  modify DragHandleId
+
+extenders EXTEND controls.  
+
+MODAL Popups
+
+create panel with your controls.  Create button that registers popup. Within panel have buttons for OK and Cancel.  Then use Modalpopup extender and set.  Like content locking it pops up and makes evertyhing else dark.
+
+WEB SERVICES
+
+If you want to call web services in Javascript on page, set [XX] attribute in webservice.asmx, set some other stuff in web.config and then write the proxy code in javascript code on page.  Great for Ajax calls that need to call web services. url: mypage.com/webservice.asmx/js
+
+JAVASCRIPT
+
+download YUI interface framework.  lotsa cool stuff.  as well as jquery.
+
+XRF
+
+For raw javascript non-.net work - use XRFFunctions to get XML files and update UI.
