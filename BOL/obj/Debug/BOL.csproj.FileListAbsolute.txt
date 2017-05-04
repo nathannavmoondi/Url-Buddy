@@ -1,0 +1,10 @@
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BOL\bin\Debug\BOL.dll.config
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BOL\bin\Debug\BOL.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BOL\bin\Debug\BOL.pdb
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BOL\bin\Debug\EntityFramework.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BOL\bin\Debug\EntityFramework.SqlServer.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BOL\bin\Debug\EntityFramework.xml
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BOL\bin\Debug\EntityFramework.SqlServer.xml
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BOL\obj\Debug\BOL.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BOL\obj\Debug\BOL.pdb

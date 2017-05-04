@@ -1,0 +1,18 @@
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\DAL\bin\Debug\DAL.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\DAL\bin\Debug\DAL.pdb
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\DAL\bin\Debug\BOL.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\DAL\bin\Debug\EntityFramework.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\DAL\bin\Debug\BOL.pdb
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\DAL\bin\Debug\EntityFramework.xml
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\DAL\obj\Debug\DAL.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\DAL\obj\Debug\DAL.pdb
+C:\Projects\GitHub\URLBuddy\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\URLBuddy\DAL\obj\Debug\DAL.dll
+C:\Projects\GitHub\URLBuddy\DAL\obj\Debug\DAL.pdb
+C:\Projects\GitHub\URLBuddy\DAL\bin\Debug\DAL.dll
+C:\Projects\GitHub\URLBuddy\DAL\bin\Debug\DAL.pdb
+C:\Projects\GitHub\URLBuddy\DAL\bin\Debug\BOL.dll
+C:\Projects\GitHub\URLBuddy\DAL\bin\Debug\EntityFramework.dll
+C:\Projects\GitHub\URLBuddy\DAL\bin\Debug\BOL.pdb
+C:\Projects\GitHub\URLBuddy\DAL\bin\Debug\EntityFramework.xml

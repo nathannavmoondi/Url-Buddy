@@ -1,0 +1,22 @@
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\bin\Debug\BLL.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\bin\Debug\BLL.pdb
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\bin\Debug\BOL.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\bin\Debug\DAL.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\bin\Debug\EntityFramework.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\bin\Debug\BOL.pdb
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\bin\Debug\DAL.pdb
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\bin\Debug\EntityFramework.xml
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\obj\Debug\BLL.dll
+K:\Software Training\__ ASP .NET __\Asp.Net MVC Web App On 3 Tier Architecture\linkhub-1a50faf8839f36d873756ab635ff8b7cfe298c39\BLL\obj\Debug\BLL.pdb
+C:\Projects\GitHub\URLBuddy\BLL\bin\Debug\BLL.dll
+C:\Projects\GitHub\URLBuddy\BLL\bin\Debug\BLL.pdb
+C:\Projects\GitHub\URLBuddy\BLL\bin\Debug\BOL.dll
+C:\Projects\GitHub\URLBuddy\BLL\bin\Debug\DAL.dll
+C:\Projects\GitHub\URLBuddy\BLL\bin\Debug\EntityFramework.dll
+C:\Projects\GitHub\URLBuddy\BLL\bin\Debug\BOL.pdb
+C:\Projects\GitHub\URLBuddy\BLL\bin\Debug\DAL.pdb
+C:\Projects\GitHub\URLBuddy\BLL\bin\Debug\EntityFramework.xml
+C:\Projects\GitHub\URLBuddy\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\URLBuddy\BLL\obj\Debug\BLL.dll
+C:\Projects\GitHub\URLBuddy\BLL\obj\Debug\BLL.pdb
